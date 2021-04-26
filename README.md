@@ -1,4 +1,4 @@
-# laravelabsenapi-vuei
+# laravelapi-vueui
 
 ## Project setup
 ```
