@@ -17,22 +17,22 @@
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <router-link class="nav-link" to="/">Home</router-link> 
+            <router-link class="nav-link" to="/">home</router-link> 
           </li>
           <li class="nav-item">
-             <router-link class="nav-link" to="/jadwals">Jadwal</router-link> 
+             <router-link class="nav-link" to="/jadwals">jadwal</router-link> 
           </li>
           <li class="nav-item">
-             <router-link class="nav-link" to="/mahasiswas">Mahasiswa</router-link> 
+             <router-link class="nav-link" to="/mahasiswas">mahasiswa</router-link> 
           </li>
           <li class="nav-item">
-             <router-link class="nav-link" to="/kontrakmatakuliahs">Kontrak Matakuliah</router-link> 
+             <router-link class="nav-link" to="/kontrakmatakuliahs">kontrak matakuliah</router-link> 
           </li>
           <li class="nav-item">
-             <router-link class="nav-link" to="/matakuliahs">Matakuliah</router-link> 
+             <router-link class="nav-link" to="/matakuliahs">matakuliah</router-link> 
           </li>
           <li class="nav-item">
-             <router-link class="nav-link" to="/semesters">Semester</router-link> 
+             <router-link class="nav-link" to="/semesters">semester</router-link> 
           </li>
 
         </ul>
